@@ -1,0 +1,6 @@
+inicio
+leer cateto-1
+leer cateto-2
+hipotenusa = raiz-cuadrada (cateto-1 ^2 + cateto-2 ^2)
+motrar hipotenusa
+fin
