@@ -1,9 +1,0 @@
-inicio
-leer numero-1
-leer numero-1
-suma = numero-1 + numero-2
-restar = numero-1 - numero-2
-dividir = numero-1 / numero-2
-multiplicar = numero-1 * numero-2
-mostrar "suma=" +suma, "resta=" + restar, "dividir="+ dividir, "multiplicar=" + multiplicar
-fin
